@@ -375,6 +375,3 @@
 <li><strong>Dashboard Pages:</strong> Summary, Overview, and Details</li>
 </ul>
 
-<h2>Disclaimer</h2>
-
-<p>This report is based on the supplied dashboard screenshots. Detailed statistical testing and validation require access to the underlying dataset and calculation definitions.</p>
