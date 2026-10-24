@@ -1,4 +1,4 @@
-Bank Loan Report Analysis
+<H1> Bank Loan Report Analysis </H1>
 1. Project Overview
 The Bank Loan Report Analysis project presents a data-driven view of loan applications, funding, repayment performance, borrower characteristics, and credit risk. The interactive dashboard provides three main views: Summary, Overview, and Details.
 
