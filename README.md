@@ -258,7 +258,6 @@
 
 <p>The application counts indicate that most loans fall into the good-loan category, while the bad-loan segment represents a material credit-risk exposure.</p>
 
-<p>The exact definitions of good and bad loans should be confirmed from the source dataset and dashboard calculations before using these figures for formal credit-risk reporting.</p>
 
 <h2>5. Loan-Level Details</h2>
 
