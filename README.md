@@ -1,10 +1,10 @@
 <H1> Bank Loan Report Analysis </H1>
-1. Project Overview
+* 1. Project Overview:
 The Bank Loan Report Analysis project presents a data-driven view of loan applications, funding, repayment performance, borrower characteristics, and credit risk. The interactive dashboard provides three main views: Summary, Overview, and Details.
 
 The primary objective is to monitor lending performance, understand loan portfolio quality, identify application trends, and support data-informed lending decisions.
 
-2. Key Performance Indicators (KPIs)
+* 2. Key Performance Indicators (KPIs)
 KPI                                Reported Value
 Total Loan Applications	            38,576
 Total Funded Amount	                $435.8M
@@ -16,7 +16,7 @@ Bad Loan Applications	              5.33K
 Good Loan Funded Amount	            $370.2M
 Bad Loan Funded Amount	            $65.5M
 
-3. Dashboard Analysis
+* 3. Dashboard Analysis
 A. Summary Dashboard
 The Summary dashboard consolidates the most important lending indicators and presents a loan-status breakdown.
 
